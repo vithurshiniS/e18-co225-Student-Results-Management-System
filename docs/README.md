@@ -2,26 +2,26 @@
 layout: home
 permalink: index.html
 
-# Please update this with your repository name and title
+<!-- # Please update this with your repository name and title
 repository-name: eYY-XXX-project-template
-title:
+title: -->
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Student Results Management System
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
+<p>
+ <kbd><img src="https://mobilemarketingwatch.com/wp-content/uploads/2016/09/banner_bg-1500x928-1132x670.jpg"></kbd>
+</p>
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/340, Vithurshini S., [email](mailto:name@email.com)
+-  E/18/373, Vilakshan V., [email](mailto:name@email.com)
+-  E/18/245, Nishani K., [email](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)

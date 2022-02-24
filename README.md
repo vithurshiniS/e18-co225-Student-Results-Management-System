@@ -1,7 +1,6 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# CO225-Student Result Management System
 ___
 
-## Please refer the instructions in below URL:
+**This ia a mobile-based application that will allow Undergraduates to manage and analyze their results for each semester without the involvement of supervisors or lecturers.**
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project

@@ -32,7 +32,7 @@ title: -->
 
 ## Introduction
 
- Currently there is no effective system to manage undergraduate students’ marks either it is handled manually or in spreadsheets. Therefore the aim of our project is to build a mobile application to automate the student grades management system process. Compared to the manual system this will save lots of time and also makes your work easier
+ Currently there is no effective system to manage undergraduate students’ marks either it is handled manually or in spreadsheets. Therefore the aim of our project is to build a mobile application to automate the student grades management system process. Compared to the manual system this will save lots of time and also makes your work easier.
 
 ## Other Sub Topics
 

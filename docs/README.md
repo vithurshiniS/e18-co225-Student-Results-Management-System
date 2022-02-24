@@ -19,9 +19,9 @@ title: -->
 
 
 ## Team
--  E/18/340, Vithurshini S., [email](mailto:name@email.com)
--  E/18/373, Vilakshan V., [email](mailto:name@email.com)
--  E/18/245, Nishani K., [email](mailto:name@email.com)
+-  E/18/340, Vithurshini S., [email](mailto:e18340@eng.pdn.ac.lk)
+-  E/18/373, Vilakshan V., [email](mailto:e18373@eng.pdn.ac.lk)
+-  E/18/245, Nishani K., [email](mailto:e18245@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -32,7 +32,7 @@ title: -->
 
 ## Introduction
 
- description of the real world problem and solution, impact
+ Currently there is no effective system to manage undergraduate students’ marks either it is handled manually or in spreadsheets. Therefore the aim of our project is to build a mobile application to automate the student grades management system process. Compared to the manual system this will save lots of time and also makes your work easier
 
 ## Other Sub Topics
 

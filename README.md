@@ -4,3 +4,4 @@ ___
 
 **This ia a mobile-based application that will allow Undergraduates to manage and analyze their results for each semester without the involvement of supervisors or lecturers.**
 
+Can find their grades, excepted marks easily
